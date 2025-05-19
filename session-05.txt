@@ -65,3 +65,5 @@ install nginx and start it
 protocol, port, ip, username and password
 
 http		80  <IP>
+how do you check the running logs
+tail -f <log-file>
